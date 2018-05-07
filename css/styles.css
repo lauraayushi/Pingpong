@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+}
+
+.col-md-4 {
+	       background-color:mediumseagreen;
+	       height: 800px;
+}
+
+h4 {
+	color: white;
+}
+
+p {
+   font-size: 16px;
+}
+
+.col-md-8 {
+	       background-color:lightgray;
+	       height: 800px;
+}
